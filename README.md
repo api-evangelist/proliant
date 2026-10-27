@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ProLiant is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.proliant.com/
+ProLiant provides modern payroll and HR management software for businesses, offering solutions such as payroll processing, tax services, employee onboarding, applicant tracking, time and labor management, and compensation management. Their platform emphasizes a people‑first economy, delivering cloud‑based tools that streamline workforce administration and integrate with various HR ecosystems.
+
+**Areas:** Payroll · HR · SaaS · Cloud · PeopleFirst · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.proliant.com/)
+- [Support](https://www.proliant.com/contact-us)
+- [Blog](https://blog.proliant.com/)
+- [Security](https://blog.proliant.com/topic/security)
+- [Terms of service](https://www.proliant.com/terms-of-use)
+- [Privacy policy](https://www.proliant.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/proliant/](https://apis.io/providers/proliant/).
